@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**Kamsy-Chuma/Kamsy-Chuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 My name is Kamsy
+I am a Graduate of Mechanical Engineering and a Data Analyst
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I analyze data to find insights that aid problemm solving
+- 🌱 I’m currently learning to be patient in life and trust the process
+- 👯 I’m looking to collaborate with data professionals to work on real world problems with data
+- 🤔 I’m looking for help with job opportunities
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: Me, Myself and I
+- ⚡ Fun fact: I love to dance, play games and have intellectual debates on relatable topics
+
+TOOLS I USE FOR DATA ANALYSIS:
+•	Microsoft Excel
+•	SQL
+•	Power BI
+•	Python
