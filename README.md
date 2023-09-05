@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to be patient in life and trust the process
 - 👯 I’m looking to collaborate with data professionals to work on real world problems with data
 - 🤔 I’m looking for help with job opportunities
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me anything data related
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kamsy-ofodum), [Twitter](https://twitter.com/KCOTDA/)
 - 😄 Pronouns: Me, Myself and I
 - ⚡ Fun fact: I love to dance, play games and have intellectual debates on relatable topics
 
