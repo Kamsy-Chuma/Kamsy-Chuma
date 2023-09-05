@@ -1,7 +1,7 @@
 Hi there 👋 My name is Kamsy
 I am a Graduate of Mechanical Engineering and a Data Analyst
 
-Here are some ideas to get you started:
+Want to know more about me?
 
 - 🔭 I analyze data to find insights that aid problemm solving
 - 🌱 I’m currently learning to be patient in life and trust the process
